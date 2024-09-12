@@ -1,7 +1,7 @@
 Hey guys 
 This is my first script for FiveM, and I hope you find it useful. Feedback and suggestions are welcome as I continue to learn and improve my scripting skills.
 ## **Delivery Job Script**
-
+* **Showcase** : [Watch Script showcase Seykal_Delivery | Streamable](https://streamable.com/s900fo)
 ### **Overview**
 
 The Delivery Job Script adds an engaging delivery mission system to FiveM servers. Players can start a delivery job by interacting with an NPC, which involves spawning a vehicle, following a waypoint to a delivery location, and completing the job by reaching the destination.
@@ -33,4 +33,4 @@ The script utilizes the **ESX** framework, a widely-used framework for FiveM ser
 
 * **ESX Framework**: This script requires the ESX framework for managing player interactions and payments. Ensure that ESX is properly installed and configured on your server.
 * 
-Showcase : [Watch Script showcase Seykal_Delivery | Streamable](https://streamable.com/s900fo)
+
