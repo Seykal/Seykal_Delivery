@@ -32,3 +32,5 @@ The script utilizes the **ESX** framework, a widely-used framework for FiveM ser
 ### **Dependencies**
 
 * **ESX Framework**: This script requires the ESX framework for managing player interactions and payments. Ensure that ESX is properly installed and configured on your server.
+* 
+Showcase : [Watch Script showcase Seykal_Delivery | Streamable](https://streamable.com/s900fo)
